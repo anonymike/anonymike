@@ -1,96 +1,75 @@
 <h1 align="center">
-  ⚡ ANONYMIKETECH ⚡
+  👋 Hi, I'm Mike — aka <span style="color:#00FF00;">anonymike</span>
 </h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Bringing+Tech+to+Life...;VPN+%2B+Bots+%2B+Websites+%2B+Innovation;Powered+by+Anonymiketech+%2B+GitHub+%2B+Surge.sh" alt="Typing animation" />
-</p>
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36FF69&vCenter=true&center=true&width=500&lines=COOKING+SOMETHING...;Designing+With+innovation!;Deploying+Elegance!" alt="Typing SVG" />
-</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anonymike/anonymiketech/main/public/A_GitHub_README.md_file_for_a_technology_company_n.png" width="600" alt="Anonymiketech AI Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Tech+Enthusiast+%7C+Web+Innovator+%7C+Automation+Fanatic;Building+Bots,+Websites,+and+Cool+Tech+Stuff;Let%27s+Bring+Ideas+to+Life!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="340" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anonymike&show_icons=true&theme=react" alt="anonymike's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymike&theme=react" alt="anonymike's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymike&layout=compact&theme=react" alt="anonymike's most used languages" />
+- 💡 I love building tech that solves real-world problems
+- ⚡ Currently exploring AI, automations, and creative coding
+- 🌍 Based in Africa, reaching the world!
+- 🤖 From bots to beautiful web experiences, I enjoy blending design & code
+- 💬 Ask me anything about web tech, bots, or creative automation
+
+---
+
+## 🛠️ Tech Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-6c47ff?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram%20Bots-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp%20Bots-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Surge.sh-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-### 🔗 Live Demo:
-👉 **[Visit anonymiketech.surge.sh 🚀](https://anonymiketech.surge.sh)**
+## 📈 GitHub Stats
 
----
-
-### 💼 What We Offer
-
-> **AnonymikeTech** is a one-stop powerhouse of innovative solutions including:
-
-- 🌍 **Internet & VPN Bundles** – Safaricom, Airtel, Telkom & Bingwa plans
-- 💻 **Web Development & Design** – Animated, responsive, clean websites
-- 🤖 **WhatsApp Chatbots** – Auto-reply, smart commands, customer flow
-- 📱 **Social Media Boosting** – Growth strategies, scheduling, and design
-- 🧠 **Next-Gen Tech Projects** – AI, automations, backend API flows
-
----
-
-### 🧩 Tech Stack
-
-| Frontend            | Backend                    | Hosting / Tools           |
-|---------------------|---------------------------|---------------------------|
-| `React`             | `Node.js` (optional)      | `Surge.sh`                |
-| `Vite`              | Express / Serverless      | `Builder.io`              |
-| `Styled Components` | API Integrations          | `GitHub`                  |
-| AOS / Animate.css   | M-Pesa STK Ready          | Telegram/WhatsApp integ.  |
-
----
-
-### 🚀 Deployment Pipeline
-
-1. 📦 Auto-push to [GitHub Repo](https://github.com/anonymike/anonymiketech)
-2. 🚀 Deploy to [Surge.sh](https://anonymiketech.surge.sh)
-3. 👩‍💻 Live for the world to see!
-
----
-
-### 📸 Screenshots
-
-> ![homepage](https://i.ibb.co/B4VDKQ9/anonymike-home.png)  
-> _Full-screen animated landing page from Builder.io UI_
-
----
-
-### 📬 Contact & Channels
-
-- 💬 [WhatsApp Inbox](https://wa.me/+254113313240)
-- 📨 [Telegram](https://t.me/ANONYMIKEY)
-- 📢 [WhatsApp Channel](https://whatsapp.com/channel/0029Vb4woXa17En19MxCLg32)
-- 🌐 [Live Website](https://anonymiketech.surge.sh)
-
----
-
-### 🙌 Made with passion & innovation
 <p align="center">
-  <img src="https://img.shields.io/badge/built%20by-anonymike%20%7C%20tktk254-green?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/deployed%20on-surge.sh-%23000000?style=flat-square&logo=vercel" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anonymike&show_icons=true&theme=tokyonight" alt="anonymike's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymike&theme=tokyonight" alt="anonymike's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymike&layout=compact&theme=tokyonight" alt="anonymike's most used languages" />
 </p>
 
 ---
 
-> **📣 Star this repo** if you love what we’re building!  
-> _Let’s bring African tech to the world._
+## 📫 Connect With Me
+
+<p>
+  <a href="https://wa.me/+254113313240">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://t.me/ANONYMIKEY">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🌟 Fun Fact
+
+> I believe in bringing African tech to the world.  
+> Let’s build something awesome together! 🚀
 
 ---
 
