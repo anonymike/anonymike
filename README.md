@@ -7,6 +7,7 @@
 </a>
 
 <p>
+  <a href="https://developer.anonymiketech.space/"><img src="https://img.shields.io/badge/Explore_My_Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my developer portfolio" /></a>
   <a href="https://github.com/anonymike"><img src="https://img.shields.io/badge/GitHub-anonymike-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/michaelmshila"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="https://t.me/ANONYMIKEY"><img src="https://img.shields.io/badge/Telegram-Say%20hello-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Message me on Telegram" /></a>
@@ -24,6 +25,44 @@
 - 🤖 Exploring AI, automation, bots, and creative coding
 - 🎨 I enjoy blending thoughtful design with practical code
 - 💬 Ask me about web tech, bots, or creative automation
+
+## 🚀 Featured projects
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Ideas+turned+into+real+projects;Explore+the+work+I'm+building+%E2%9C%A8" alt="Ideas turned into real projects — explore the work I'm building" />
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 SYNTH</h3>
+      <p>A modular AI workspace and development platform built by ANONYMIKETECH.</p>
+      <a href="https://synth.anonymiketech.space/"><img src="https://img.shields.io/badge/Explore_Synth-8B5CF6?style=for-the-badge&logo=sparkles&logoColor=white" alt="Explore SYNTH" /></a>
+      <a href="https://github.com/anonymike/SYNTH"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="SYNTH source code" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 SYNTHNET DESKTOP</h3>
+      <p>A project page showcasing releases and updates for the SYNTHNET DESKTOP application.</p>
+      <a href="https://synthnet-desktop.vercel.app/"><img src="https://img.shields.io/badge/View_Project-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="View SYNTHNET DESKTOP" /></a>
+      <a href="https://github.com/anonymike/SYNTHNET-DESKTOP"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="SYNTHNET DESKTOP source code" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💸 M-Pesa Payment Flow</h3>
+      <p>Automated payment flow for initiating M-Pesa transactions.</p>
+      <a href="https://github.com/anonymike/ANONYMIKETECHSTKPAYFLOWACC"><img src="https://img.shields.io/badge/Explore_Repository-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Explore M-Pesa Payment Flow repository" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚖️ Economic Justice Forum</h3>
+      <p>A web project for the Economic Justice Forum (EJF).</p>
+      <a href="https://github.com/anonymike/Economic-Justice-Forum"><img src="https://img.shields.io/badge/Explore_Repository-F97316?style=for-the-badge&logo=github&logoColor=white" alt="Explore Economic Justice Forum repository" /></a>
+      <a href="https://github.com/anonymike/Economic-Justice-Hub"><img src="https://img.shields.io/badge/EJF_Hub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Economic Justice Hub repository" /></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><i>More projects are on the way — I'll keep adding them here as I share their links.</i></p>
 
 ## 🧰 My tech toolbox
 
@@ -54,6 +93,7 @@
 ## 🤝 Let's connect
 
 <p>
+  <a href="https://developer.anonymiketech.space/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my developer portfolio" /></a>
   <a href="https://wa.me/254113313240"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://t.me/ANONYMIKEY"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.linkedin.com/in/michaelmshila"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
