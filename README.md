@@ -1,78 +1,71 @@
-<h1 align="center">
-  👋 Hi, I'm Mike — aka <span style="color:#00FF00;">anonymike</span>
-</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Tech+Enthusiast+%7C+Web+Innovator+%7C+Automation+Fanatic;Building+Bots,+Websites,+and+Cool+Tech+Stuff;Let%27s+Bring+Ideas+to+Life!+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="340" />
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:064e3b,100:10b981&height=190&section=header&text=Hey,%20I'm%20Mike%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=aka%20anonymike%20%7C%20Building%20useful%20things%20with%20code&descAlignY=58&descSize=16" alt="A dark green wave banner introducing Mike" />
 
-## 🚀 About Me
-
-- 💡 I love building tech that solves real-world problems
-- ⚡ Currently exploring AI, automations, and creative coding
-- 🌍 Based in Africa, reaching the world!
-- 🤖 From bots to beautiful web experiences, I enjoy blending design & code
-- 💬 Ask me anything about web tech, bots, or creative automation
-
----
-
-## 🛠️ Tech Toolbox
+<a href="https://github.com/anonymike">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=650&lines=Tech+Enthusiast;Web+Innovator;Automation+%26+Creative+Coding" alt="Tech enthusiast, web innovator, automation and creative coding" />
+</a>
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-6c47ff?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram%20Bots-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/WhatsApp%20Bots-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Surge.sh-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <a href="https://github.com/anonymike"><img src="https://img.shields.io/badge/GitHub-anonymike-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/michaelmshila"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://t.me/ANONYMIKEY"><img src="https://img.shields.io/badge/Telegram-Say%20hello-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Message me on Telegram" /></a>
 </p>
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## ✨ A little about me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anonymike&show_icons=true&theme=tokyonight" alt="anonymike's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymike&theme=tokyonight" alt="anonymike's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymike&layout=compact&theme=tokyonight" alt="anonymike's most used languages" />
-</p>
+> I love building tech that solves real-world problems—and bringing African tech to the world.
 
----
+- 🌍 Based in Africa, building for a global community
+- 🤖 Exploring AI, automation, bots, and creative coding
+- 🎨 I enjoy blending thoughtful design with practical code
+- 💬 Ask me about web tech, bots, or creative automation
 
-## 📫 Connect With Me
+## 🧰 My tech toolbox
 
 <p>
-  <a href="https://wa.me/+254113313240">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://t.me/ANONYMIKEY">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/michaelmshila">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="anonymiketech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram bots" />
+  <img src="https://img.shields.io/badge/WhatsApp_Bots-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp bots" />
+  <img src="https://img.shields.io/badge/Surge.sh-111827?style=flat-square&logo=surge&logoColor=white" alt="Surge.sh" />
 </p>
 
----
+## 📊 GitHub at a glance
 
-## 🌟 Fun Fact
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anonymike&show_icons=true&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=c9d1d9" alt="anonymike's GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anonymike&hide_border=true&background=0d1117&ring=34d399&fire=34d399&currStreakLabel=34d399&sideLabels=c9d1d9&dates=8b949e" alt="anonymike's GitHub contribution streak" />
+</div>
 
-> I believe in bringing African tech to the world.  
-> Let’s build something awesome together! 🚀
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymike&layout=compact&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=c9d1d9" alt="anonymike's most used languages" />
+</div>
 
----
+## 🤝 Let's connect
 
-<!--
-**anonymike/anonymike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p>
+  <a href="https://wa.me/254113313240"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://t.me/ANONYMIKEY"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.linkedin.com/in/michaelmshila"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:anonymiketech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<div align="center">
+
+**Let’s build something awesome together! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:064e3b,100:0f172a&height=100&section=footer" alt="Green wave footer" />
+
+</div>
+
+<!-- anonymike/anonymike is a special repository: this README appears on the GitHub profile. -->
